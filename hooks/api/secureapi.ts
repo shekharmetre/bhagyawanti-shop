@@ -1,7 +1,6 @@
 // hooks/useApi.ts
 import { useQuery, useMutation, UseQueryOptions } from '@tanstack/react-query';
 import { showToast } from '../filtered-toast';
-import Cookies from 'js-cookie';
 type HttpMethod = 'GET' | 'POST' | 'PUT' | 'DELETE' | 'PATCH';
 
 type ApiResponse<T> = {

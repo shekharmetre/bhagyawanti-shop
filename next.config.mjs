@@ -16,7 +16,7 @@ const nextConfig = {
     return [
       {
         source: '/api/bun/:path*',
-        destination: `http://localhost:8080/:path*`, // Use env value
+        destination: `https://shekharmetre-bun-elysia-nextjs-supabase.onrender.com/:path*`, // Use env value
       },
     ];
   }
