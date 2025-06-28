@@ -1,6 +1,5 @@
 'use client'
 
-import { supabse } from '@/config/supbase-client';
 import { usePopupStore } from '@/store/usePopupStore';
 import { LogIn } from 'lucide-react';
 import { useFormStatus } from 'react-dom'; // ✅ New import

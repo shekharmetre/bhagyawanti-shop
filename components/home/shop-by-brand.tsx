@@ -2,7 +2,7 @@
 
 import { ScrollingBrands } from "./brand"
 import { motion } from "framer-motion"
-import { ArrowRight, Truck, RotateCcw, Headphones, Shield } from "lucide-react"
+import {  Truck, RotateCcw, Headphones, Shield } from "lucide-react"
 
 
 const serviceFeatures = [

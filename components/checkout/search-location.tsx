@@ -1,6 +1,6 @@
 'use client'
 import React, { useState, useEffect, useRef } from 'react';
-import { Search, MapPin, Navigation, Clock, Star, X, Plus, Edit2 } from 'lucide-react';
+import { Search, MapPin, Navigation, Clock } from 'lucide-react';
 import { LocationData, LocationSearchProps } from '@/lib/types';
 
 

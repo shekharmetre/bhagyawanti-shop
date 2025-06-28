@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { X, MapPin, Phone, Home, Building, Navigation } from 'lucide-react';
+import { X, MapPin, Phone, Home, Building } from 'lucide-react';
 import { FormLocationData, LocationData } from '@/lib/types';
 
 interface ManualAddressFormProps {

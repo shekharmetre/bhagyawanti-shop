@@ -1,5 +1,5 @@
 'use client'
-import { CartItem, CartState, Product } from "@/lib/types";
+import { CartItem } from "@/lib/types";
 import { AnimatePresence, motion } from "framer-motion"
 import Image from "next/image";
 import { Button } from "../ui/button";
